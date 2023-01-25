@@ -19,7 +19,13 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.fabricmc.stinga.Main"
+      "net.fabricmc.stinga.StingaMod"
+    ],
+    "client": [
+      "net.fabricmc.stinga.StingaModClient"
+    ],
+    "fabric-datagen": [
+      "net.fabricmc.stinga.StingaModDataGenerator"
     ]
   },
   "mixins": [

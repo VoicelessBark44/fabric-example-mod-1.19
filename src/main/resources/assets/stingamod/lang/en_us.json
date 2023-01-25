@@ -1,3 +1,10 @@
 {
-  "item.stingamod.stinga_sword": "§6Stinga Sword"
+  "item.stingamod.stinga_sword": "§6Stinga Sword",
+  "item.stingamod.stinga_shield": "§6Stinga Shield",
+  "item.stingamod.stinga_helmet": "§6Stinga Helmet",
+  "item.stingamod.stinga_chest_piece": "§6Stinga Top",
+  "item.stingamod.stinga_leggings": "§6Stinga Pants",
+  "item.stingamod.stinga_boots": "§6Stinga Footwear",
+
+  "itemgroup.stinga": "Stinga Item Group"
 }
